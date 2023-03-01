@@ -1,4 +1,3 @@
-print("hell")
+print("hello")
 print("arjun")
-print("ravi is good")
-print("i can do evrything")
+
